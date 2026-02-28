@@ -1,75 +1,94 @@
 <div align="center">
 
-# 👋 Привет, я IDLE-404
-**Frontend-разработчик** • React / TypeScript • UI/UX-focused
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=IDLE-404&fontAlign=50&fontAlignY=35&color=gradient" />
 
-Делаю современные, адаптивные интерфейсы: лендинги, дашборды, админ-панели и веб-приложения.  
+# 👋 Привет, я IDLE-404
+### Frontend-разработчик • React / TypeScript • UI/UX-focused
+
+Мне **18 лет**, я из **Казахстана**. Делаю современные, адаптивные интерфейсы: лендинги, дашборды, админ-панели и веб-приложения.  
 Люблю чистую типографику, много воздуха, glassmorphism и аккуратные микро-анимации.
 
-**GitHub:** https://github.com/IDLE-404
+<br/>
 
-<img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,html,css,js,git,php,laravel,mysql,postgres,docker" />
+<a href="https://github.com/IDLE-404">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-IDLE--404-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://t.me/ameront">
+  <img alt="Telegram" src="https://img.shields.io/badge/Telegram-@ameront-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+<a href="mailto:gge150607@gmail.com">
+  <img alt="Email" src="https://img.shields.io/badge/Email-gge150607%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,html,css,js,git,php,laravel,mysql,postgres,tauri,docker" />
 
 </div>
 
 ---
 
-## 👤 Обо мне
-Мне **18 лет**, я из **Казахстана**.  
-Я разрабатываю интерфейсы на **React/TypeScript** и умею доводить UI до продакшн-качества: сетка, типографика, состояния компонентов, адаптив и аккуратные анимации.
-
-Помимо фронтенда, уверенно работаю с бэкендом и окружением проекта: **PHP/Laravel**, базы данных **MySQL/PostgreSQL**, сборка на **Vite**, а также делаю **десктоп-приложения на Tauri** (Web + Desktop).
-
----
-
-## 🎯 Чем могу быть полезен
-- **Frontend под ключ:** лендинги, личные кабинеты, админ-панели, SaaS-дашборды
-- **Верстка по Figma:** pixel-perfect + полный адаптив (mobile/tablet/desktop)
-- **Компонентный подход:** переиспользуемые блоки, UI-система, чистая структура проекта
-- **Формы и UX:** валидация, ошибки, состояния, маски, удобные сценарии
+## ✨ Чем могу быть полезен
+- **Frontend под ключ:** лендинги, личные кабинеты, админ-панели, SaaS-дашборды  
+- **Figma → Code:** pixel-perfect + полный адаптив (mobile/tablet/desktop)
+- **Компонентный подход:** переиспользуемые UI-блоки, дизайн-система, аккуратная структура
+- **Формы и UX:** валидация, состояния, ошибки, удобные сценарии
 - **Интеграция с API:** REST, загрузка данных, фильтры, поиск, пагинация
-- **Desktop (Tauri):** упаковка web-интерфейса в приложение под Windows/macOS/Linux
+- **Desktop UI:** упаковка web-интерфейса в приложение на **Tauri**
 
 ---
 
 ## 🧩 Специализация (Frontend)
-- Верстка по Figma (pixel-perfect) + полный адаптив (mobile/tablet/desktop)
-- Компонентный подход: UI-библиотека, переиспользуемые блоки
-- Формы: валидация, ошибки, UX-состояния
-- Интеграция с API (REST), загрузка данных, фильтры/поиск
-- Микро-анимации: hover/transition, появления блоков, аккуратные motion-эффекты
+- React / TypeScript (SPA интерфейсы)
+- Tailwind CSS / CSS Modules (чистая верстка и дизайн)
+- UI: shadcn/ui, Radix UI, Lucide
+- Motion: Framer Motion (микро-анимации)
+- Forms: React Hook Form + Zod
+- Data: REST API + TanStack Query (по необходимости)
 
 ---
 
 ## 🧰 Технологический стек
-
-### Frontend
-- **Языки:** JavaScript, TypeScript  
-- **Библиотека:** React  
-- **Сборка:** Vite  
-- **Стили:** Tailwind CSS / CSS Modules  
-- **UI:** shadcn/ui, Radix UI, Lucide  
-- **Анимации:** Framer Motion  
-- **Формы и валидация:** React Hook Form, Zod  
-- **Работа с данными:** REST API, TanStack Query (по необходимости)
-
-### Backend (если нужен fullstack)
-- **PHP:** Laravel  
-- **Базы данных:** MySQL, PostgreSQL  
-- **API:** REST (авторизация, CRUD, интеграции)
-
-### Desktop
-- **Tauri:** Desktop-приложения на базе Web UI (React + Vite)
-
-### Инструменты
-- **Git**, ESLint, Prettier  
-- Docker (если используешь в проектах), Postman/Insomnia (для API)
+<table>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>React, TypeScript, Vite, Tailwind CSS, CSS Modules</td>
+  </tr>
+  <tr>
+    <td><b>UI / UX</b></td>
+    <td>shadcn/ui, Radix UI, Lucide, Framer Motion</td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>PHP, Laravel</td>
+  </tr>
+  <tr>
+    <td><b>Базы данных</b></td>
+    <td>MySQL, PostgreSQL</td>
+  </tr>
+  <tr>
+    <td><b>Desktop</b></td>
+    <td>Tauri</td>
+  </tr>
+  <tr>
+    <td><b>Инструменты</b></td>
+    <td>Git, ESLint, Prettier, Docker</td>
+  </tr>
+</table>
 
 ---
 
+
+## 📈 Статистика (по желанию)
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=IDLE-404&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IDLE-404&layout=compact" />
+
+</div>
 
 ---
 
 ## 📩 Контакты
-**Telegram:** @ameront  
-**Email:** gge150607@gmail.com
+- Telegram: **@ameront**
+- Email: **gge150607@gmail.com**
