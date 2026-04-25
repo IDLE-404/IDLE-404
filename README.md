@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[https://capsule-render.vercel.app/api?type=waving&height=180&text=IDLE-404&fontAlign=50&fontAlignY=35&color=gradient](https://www.pinterest.com/pin/4011087177456154/)" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=IDLE-404&fontAlign=50&fontAlignY=35&color=gradient" />
 
 ### Frontend-разработчик • React / TypeScript • UI/UX-focused
 
